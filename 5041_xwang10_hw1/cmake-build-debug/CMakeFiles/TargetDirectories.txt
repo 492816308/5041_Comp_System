@@ -1,0 +1,3 @@
+/Users/xiaoyuwang/CLionProjects/5041_xwang10_hw1/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/xiaoyuwang/CLionProjects/5041_xwang10_hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiaoyuwang/CLionProjects/5041_xwang10_hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
